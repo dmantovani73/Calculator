@@ -9,8 +9,6 @@ class Program
 
         int sum = Calculator.Sum(a, b);
 
-
-        // Somma.
         Console.WriteLine("{0} + {1} = {2}", a, b, sum);
     }
 }
